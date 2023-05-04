@@ -4,7 +4,7 @@
 
 //Create a database and replace the name of your database in .env
 
- -php artisan migrate
+-php artisan migrate
 
 - php artisan db:seed
 
